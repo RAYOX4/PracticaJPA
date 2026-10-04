@@ -1,4 +1,4 @@
-# PracticaJPA - Sistema de Biblioteca
+# PracticaJPA - Biblioteca
 
 Aplicación Web Java con **JPA + JSP** para gestionar una biblioteca.
 
@@ -9,6 +9,11 @@ Aplicación Web Java con **JPA + JSP** para gestionar una biblioteca.
 - Vistas con **JSP + JSTL**
 - Servlets como controladores (arquitectura **MVC**)
 - Empaquetado como **WAR** desplegado en **Apache Tomcat 10.1**
+
+## 👥 Autores
+
+- Mejia Gracia Valeria
+- Pérez Enríquez Jesus Arturo
 
 ## 🛠️ Tecnologías
 
